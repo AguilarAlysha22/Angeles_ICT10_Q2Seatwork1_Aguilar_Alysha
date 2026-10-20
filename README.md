@@ -1,0 +1,2 @@
+# Angeles_ICT10_Q2Seatwork1_Aguilar_Alysha
+Candidate Verification System
